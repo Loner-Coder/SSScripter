@@ -15,7 +15,7 @@ import time
 
 def banner_sub():
 
-	print B+'   [---]   '+GR+'SSScripter, '+O+'Same Site Scripting '+R+'Audit Toolkit   '+B+'           [---]'
+	print B+'   [---]         '+GR+'SSScripter, '+O+'Same Site Scripting '+R+'Audit Toolkit   '+B+'     [---]'
 	time.sleep(0.1)
 	print B+'   [---]                                                              [---]'
 	time.sleep(0.1)

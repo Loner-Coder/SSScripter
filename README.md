@@ -1,4 +1,4 @@
-<p align="middle"><img src='https://i.imgur.com/HfAUyKJ.png' /></p>  
+<p align="middle"><img src='https://i.imgur.com/X9LKExT.png' /></p>  
 
 # SSScripter
 SSScripter is a advanced scanner to test whether a website is vulnerable to Same-Site Scripting.
@@ -6,12 +6,14 @@ SSScripter is a advanced scanner to test whether a website is vulnerable to Same
 ### Features:
 
 - [x] Gathers subdomains via bruteforce as well as a public APIs.
-- [x] Multiple modules employed in identifying vulnerabilities.
+- [x] Checks for heuristics and then goes in for vast scope vulnerabilities.
+- [x] Makes use of simple commands like ping and nslookup for heuristics.
+- [x] Multiple modules employed in identifying vulnerabilities in broader scope.
 - [x] Less chances of false positives.
 - [x] Has huge subdomain paths (3 different files containing 1000, 2000, 10000).
 - [x] Support for custom subdomains path.
 
-<img src="https://i.imgur.com/Qd4mSqm.png" />
+<img src="https://i.imgur.com/FfNKzi0.png" />
 
 #### Requirements:
 
@@ -40,9 +42,11 @@ examplesite.com
 ```
 ➲ Let the scanner load up.
 
-➲ Keep track of PoCs which may appear (if bug exists).
+➲ Keep track of changes and bugs.
 
 ➲ Report to owners if any bugs found... ; )
+
+<img src="https://i.imgur.com/wUpxXfB.png" />
 
 #### Version:
 

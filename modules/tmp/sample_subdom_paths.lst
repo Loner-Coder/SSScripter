@@ -1,0 +1,35 @@
+
+   SAMPLE FILE
+  =============
+
+# This is how files here will look like...
+# They will go by site-name+subdomains.lst
+
+ads.site.com
+bombs.site.com
+blog.site.com
+cat.site.com
+contact.site.com
+dumb.site.com
+ester-day.site.com
+ftp.site.com
+gombher.site.com
+hats.site.com
+ignite.site.com
+jexboss.site.com
+kiln.site.com
+lame.site.com
+mango.site.com
+ookla.site.com
+polar.site.com
+quest.site.com
+rate.site.com
+severity.site.com
+trump.site.com
+uganda.site.com
+verbose.site.com
+wax-base.site.com
+xss.site.com
+yummy.site.com
+zurich.site.com
+zen.site.com

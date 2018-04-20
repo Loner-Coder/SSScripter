@@ -7,7 +7,6 @@ SSScripter is a advanced scanner to test whether a website is vulnerable to Same
 
 - [x] Gathers subdomains via bruteforce as well as a public APIs.
 - [x] Checks for heuristics and then goes in for vast scope vulnerabilities.
-- [x] Makes use of simple commands like ping and nslookup for heuristics.
 - [x] Multiple modules employed in identifying vulnerabilities in broader scope.
 - [x] Less chances of false positives.
 - [x] Has huge subdomain paths (3 different files containing 1000, 2000, 10000).

@@ -1,13 +1,13 @@
 #!/usr/bin/env python2
 # coding:  utf-8
 
-#-:-:-:-:-:-:-:-:-:-:-:-:#
-#    TIDoS Framework     #
-#-:-:-:-:-:-:-:-:-:-:-:-:#
+#-:-:-:-:-:-:-::-:-:#
+#    SSScripter     #
+#-:-:-:-:-:-:-::-:-:#
 
 #Author: the-Infected-Drake (@_tID)
-#This module requires TIDoS Framework
-#https://github.com/the-Infected-Drake/TIDoS-Framework 
+#This module requires SSScripter Framework
+#https://github.com/the-Infected-Drake/SSScripter
 
 import sys
 sys.path.append('core/')
